@@ -30,7 +30,7 @@ spec:
       - args:
         - -grpc-server-endpoint
         - grpc-gateway-sample-2.oandriie-tenant.svc.cluster.local:50051
-        image: docker.io/aandrienko/grpc-gateway
+        image: quay.io/redhat-user-workloads-stage/oandriie-tenant/grpc-gateway-sample/grpc-gateway-sample-ojmj@sha256:3de7cc7d184a10a59f99c46b8dd4736a2b24c0b03cfb2388d7e74f544c04d17a
         name: my-nodejs
         ports:
         - containerPort: 3001
