@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: grpc-gateway-sample-ojmj
     app.kubernetes.io/part-of: grpc-gateway-sample
-  name: grpc-gateway-sample-ojmjxoac
+  name: grpc-gateway-sample-ojmjmjdx
 spec:
   path: /
   port:
